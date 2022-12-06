@@ -5,6 +5,10 @@
 [Bb]uilds/
 [Ll]ogs/
 
+# Ignore GLTF/GLB Exports
+GLTF/
+GLB/
+
 # Uncomment this line if you wish to ignore the asset store tools plugin
 # [Aa]ssets/AssetStoreTools*
 
